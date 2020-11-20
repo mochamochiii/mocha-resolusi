@@ -3,7 +3,11 @@ RENCANA KONTEN MOCHA
 - javascript
   * ES6
   * javascript framework
+    ^ vue
+    ^ react
 - struktur data dasar
 - php framework
+  ^ laravel
 - interview
 - vlog
+- python

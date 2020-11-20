@@ -4,6 +4,7 @@ RENCANA KONTEN MOCHA
   * ES6
   * javascript framework
     ^ vue
+    ^ react
 - struktur data dasar
 - php framework
   ^ laravel

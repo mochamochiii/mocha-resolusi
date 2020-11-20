@@ -1,0 +1,6 @@
+RENCANA KONTEN MOCHA
+
+- javascript
+- php framework
+- interview
+- vlog
